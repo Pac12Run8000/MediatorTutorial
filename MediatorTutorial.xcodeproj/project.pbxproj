@@ -11,6 +11,7 @@
 		090FA2EC2A0AB2FB00A238DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090FA2EB2A0AB2FB00A238DC /* ContentView.swift */; };
 		090FA2EE2A0AB2FD00A238DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 090FA2ED2A0AB2FD00A238DC /* Assets.xcassets */; };
 		090FA2F12A0AB2FD00A238DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 090FA2F02A0AB2FD00A238DC /* Preview Assets.xcassets */; };
+		090FA2FE2A0ABBEB00A238DC /* Mediator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 090FA2FD2A0ABBEB00A238DC /* Mediator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		090FA2EB2A0AB2FB00A238DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		090FA2ED2A0AB2FD00A238DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		090FA2F02A0AB2FD00A238DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		090FA2FD2A0ABBEB00A238DC /* Mediator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mediator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				090FA2E92A0AB2FB00A238DC /* MediatorTutorialApp.swift */,
+				090FA2FD2A0ABBEB00A238DC /* Mediator.swift */,
 				090FA2EB2A0AB2FB00A238DC /* ContentView.swift */,
 				090FA2ED2A0AB2FD00A238DC /* Assets.xcassets */,
 				090FA2EF2A0AB2FD00A238DC /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				090FA2FE2A0ABBEB00A238DC /* Mediator.swift in Sources */,
 				090FA2EC2A0AB2FB00A238DC /* ContentView.swift in Sources */,
 				090FA2EA2A0AB2FB00A238DC /* MediatorTutorialApp.swift in Sources */,
 			);
